@@ -1,6 +1,6 @@
 # Application process - simple SQL application
 
-Handling the application process at Codecool has always been a tedious task. Finally the HR department figured out that using only Java and long lists is a no-brainer if they want to get information quickly. To improve on data management, they collaborate with you to test out something they just heard about: "databases".
+Handling the application process at Codecool has always been a tedious task. Finally the HR department figured out that using only Java and long lists is a no-brainer if they want to get information quickly. To improve on data management, they collaborate with you to test out something they just heard about: "databases". Test
 
 ## The exercise
 
