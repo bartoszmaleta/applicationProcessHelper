@@ -13,3 +13,8 @@ WHERE email LIKE '%@adipicingenimmi.edu';
 INSERT INTO applicants(first_name, last_name, phone_number, email, application_code)
 VALUES
     ('Markus', 'Schaffarzyk', '003620/725-2666', 'djnovus@groovecoverage.com', 54823);
+
+UPDATE applicants
+SET phone_number='003670/223-7459'
+WHERE first_name='Jemmima'
+AND last_name='Foreman';
