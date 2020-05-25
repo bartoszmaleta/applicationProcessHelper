@@ -18,3 +18,6 @@ UPDATE applicants
 SET phone_number='003670/223-7459'
 WHERE first_name='Jemmima'
 AND last_name='Foreman';
+
+DELETE FROM applicants
+WHERE email LIKE '%@mauriseu.net';
